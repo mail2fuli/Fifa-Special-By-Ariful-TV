@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qMsvbNKg/Toffe.png" group-title="FIFA", Toffe Live HD
-https://sm-monirul.top/tof/live/toffee4/index.m3u8?nocache=1782146598612
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="FIFA", T Sports HD
-https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XrZyw5T7/DAZN.png" group-title="FIFA", DAZN
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S7tZS6cg/Bein-Sports-1-Direct.png" group-title="FIFA", Bein Sports
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Backup 1
+https://play.gzxdby.com/live/283334344568_4547627225_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Backup 2
+https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782784162-0-0-1c9a6e36993915c9c102448d5e7dfbb5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Server 1
+https://play.gzxdby.com/live/183334344568_2547627555_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Server 2
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Server 3
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XrVcFhNL/Bein-Sports-8-K.png" group-title="FIFA", Bein Sports 8K
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Server 4 8K
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kgv9RGbr/20260615-205524.png" group-title="FIFA", D Sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFk6bssh/TYC-Sports.png" group-title="FIFA", TYC Sports
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6c1qKVNs/Z-Bangla-Sonar.png" group-title="FIFA", Z Sonar Bangla
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
