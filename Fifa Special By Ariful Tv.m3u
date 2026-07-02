@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Backup 1
-https://play.gzxdby.com/live/283334344568_4547627225_1080p.m3u8
+https://richflix-stream-proxy.sm-ashikurahman.workers.dev/proxy/manifest?url=https%3A%2F%2Fedge22.776740.ir.cdn.ir%2Fhls2%2Fsport.m3u8%20&t=1783008210&sig=89290eae80a29d72cdcaa87b1627057dd01a40ec1cbf8ae4f6d7672a67baa6ff
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Backup 2
-https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782784162-0-0-1c9a6e36993915c9c102448d5e7dfbb5
+https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Server 1
-https://play.gzxdby.com/live/183334344568_2547627555_1080p.m3u8
+https://richflix-stream-proxy.sm-ashikurahman.workers.dev/proxy/manifest?url=https%3A%2F%2F1nyaler.streamhostingcdn.top%2Fstream%2F21%2Findex.m3u8&t=1783005600&sig=277c641183ac146ba2266a0faa1f55899457bfb45d0cc158c137b994de70d973
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Server 2
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
@@ -15,5 +15,5 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Server 3
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Server 4 8K
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YFXSgwM6/Arifultv-pro-bd.png" group-title="FIFA",Server 4
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
